@@ -1400,6 +1400,10 @@
   .u-section-8 .u-sheet-1 {
     min-height: 94px;
   }
+
+  .u-section-8 .u-text-1 {
+    font-weight: 300;
+  }
 }
 
 @media (max-width: 991px) {
