@@ -1244,7 +1244,7 @@
 }
 
 .u-section-7 .u-text-2 {
-  font-size: 1.125rem;
+  font-size: 1.28571rem;
   text-align: justify;
   font-weight: 700;
   width: 803px;
@@ -1392,22 +1392,13 @@
 }
 
 .u-section-8 .u-text-1 {
-  line-height: 25.6px;
-  font-weight: 700;
-  margin: 14px 158px 0 187px;
+  font-size: 1.14286rem;
+  margin: 11px 0 38px;
 }
 
 @media (max-width: 1199px) {
   .u-section-8 .u-sheet-1 {
     min-height: 94px;
-  }
-
-  .u-section-8 .u-text-1 {
-    height: 39px;
-    width: auto;
-    margin-top: 28px;
-    margin-left: 87px;
-    margin-right: 87px;
   }
 }
 
@@ -1415,30 +1406,21 @@
   .u-section-8 .u-sheet-1 {
     min-height: 67px;
   }
-
-  .u-section-8 .u-text-1 {
-    margin: 0 0 17px;
-  }
 }
 
 @media (max-width: 767px) {
   .u-section-8 .u-sheet-1 {
     min-height: 95px;
   }
-
-  .u-section-8 .u-text-1 {
-    margin-top: 10px;
-    margin-bottom: 46px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 119px;
+    min-height: 133px;
   }
 
   .u-section-8 .u-text-1 {
-    margin-bottom: 60px;
+    font-weight: 400;
   }
 }.u-section-9 .u-sheet-1 {
   min-height: 463px;
@@ -1451,7 +1433,7 @@
 }
 
 .u-section-9 .u-text-1 {
-  margin: 12px auto 30px;
+  margin: 21px auto 28px;
 }
 
 @media (max-width: 991px) {
@@ -1496,7 +1478,7 @@
   }
 
   .u-section-9 .u-text-1 {
-    margin: 0 0 30px;
+    margin: 0 0 28px;
   }
 }.u-section-10 .u-sheet-1 {
   min-height: 721px;
@@ -1627,19 +1609,18 @@
   font-weight: 700;
   line-height: 1.3;
   text-align: center;
-  margin: 21px 0 0;
+  margin: 0;
 }
 
 .u-section-12 .u-text-2 {
   font-size: 1.125rem;
   width: 804px;
-  margin: 16px auto 21px;
+  margin: 8px auto 48px;
 }
 
 @media (max-width: 1199px) {
   .u-section-12 .u-text-1 {
     width: auto;
-    margin-top: 0;
     margin-left: 68px;
     margin-right: 68px;
   }
@@ -1677,24 +1658,28 @@
     margin: 14px 0 18px;
   }
 }.u-section-13 .u-sheet-1 {
-  min-height: 275px;
+  min-height: 315px;
 }
 
 .u-section-13 .u-text-1 {
   font-weight: 700;
   line-height: 1.3;
   text-align: center;
-  width: 804px;
+  width: 803px;
   margin: 0 auto;
 }
 
 .u-section-13 .u-text-2 {
   font-size: 1.125rem;
   text-align: left;
-  margin: 20px 168px 0;
+  margin: 20px 168px 40px;
 }
 
 @media (max-width: 1199px) {
+  .u-section-13 .u-text-1 {
+    width: 804px;
+  }
+
   .u-section-13 .u-text-2 {
     width: auto;
     margin: 4px 68px 16px;
@@ -1704,8 +1689,6 @@
 @media (max-width: 991px) {
   .u-section-13 .u-text-1 {
     width: auto;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-13 .u-text-2 {
